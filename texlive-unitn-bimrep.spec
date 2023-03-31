@@ -1,6 +1,6 @@
 Name:		texlive-unitn-bimrep
 Version:	45581
-Release:	1
+Release:	2
 Summary:	A bimonthly report class for the PhD School of Materials, Mechatronics and System Engineering
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/unitn-bimrep
