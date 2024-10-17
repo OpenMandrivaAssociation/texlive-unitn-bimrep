@@ -3,7 +3,7 @@ Version:	45581
 Release:	2
 Summary:	A bimonthly report class for the PhD School of Materials, Mechatronics and System Engineering
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/unitn-bimrep
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/unitn-bimrep
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/unitn-bimrep.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/unitn-bimrep.doc.r%{version}.tar.xz
